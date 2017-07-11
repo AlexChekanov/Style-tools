@@ -32,7 +32,6 @@ extension UIView {
         
             finished in
             self.transform = CGAffineTransform.identity
-            self.layer.removeAllAnimations()
             })
     }
     
