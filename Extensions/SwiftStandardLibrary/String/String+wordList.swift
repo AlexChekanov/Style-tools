@@ -6,7 +6,6 @@
 //  Copyright © 2017 Alexey Chekanov. All rights reserved.
 //
 
-import Foundation
 
 extension String {
     var wordList: [String] {

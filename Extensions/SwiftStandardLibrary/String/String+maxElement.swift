@@ -6,15 +6,10 @@
 //  Copyright © 2017 Alexey Chekanov. All rights reserved.
 //
 
-import Foundation
-
 extension String {
-    var maxWord: String {
-        
+    var longestWord: String {
         if let max = self.wordList.max(by: {$1.characters.count > $0.characters.count}) {
             return max
         } else {return ""}
     }
 }
-
-
