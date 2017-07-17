@@ -15,6 +15,7 @@
 		3B0DC19F1F1D4EDC00ABC368 /* String+isNilOrEmpty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0DC19C1F1D4EDC00ABC368 /* String+isNilOrEmpty.swift */; };
 		3B0DC1A01F1D4EDC00ABC368 /* String+maxElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0DC19D1F1D4EDC00ABC368 /* String+maxElement.swift */; };
 		3B0DC1A11F1D4EDC00ABC368 /* String+wordList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0DC19E1F1D4EDC00ABC368 /* String+wordList.swift */; };
+		3B0DC1A31F1D502700ABC368 /* UIButton+flexibleWidth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0DC1A21F1D502700ABC368 /* UIButton+flexibleWidth.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		3B0DC19C1F1D4EDC00ABC368 /* String+isNilOrEmpty.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "String+isNilOrEmpty.swift"; path = "../../SwiftStandardLibrary/String/String+isNilOrEmpty.swift"; sourceTree = "<group>"; };
 		3B0DC19D1F1D4EDC00ABC368 /* String+maxElement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "String+maxElement.swift"; path = "../../SwiftStandardLibrary/String/String+maxElement.swift"; sourceTree = "<group>"; };
 		3B0DC19E1F1D4EDC00ABC368 /* String+wordList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "String+wordList.swift"; path = "../../SwiftStandardLibrary/String/String+wordList.swift"; sourceTree = "<group>"; };
+		3B0DC1A21F1D502700ABC368 /* UIButton+flexibleWidth.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIButton+flexibleWidth.swift"; path = "../../UIKit/UIButton/UIButton+flexibleWidth.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +155,7 @@
 		3B0DC1931F1D4CF000ABC368 /* UILabel */ = {
 			isa = PBXGroup;
 			children = (
+				3B0DC1A21F1D502700ABC368 /* UIButton+flexibleWidth.swift */,
 			);
 			name = UILabel;
 			sourceTree = "<group>";
@@ -244,6 +247,7 @@
 				3B0DC19F1F1D4EDC00ABC368 /* String+isNilOrEmpty.swift in Sources */,
 				3B0DC1A01F1D4EDC00ABC368 /* String+maxElement.swift in Sources */,
 				3B0DC19B1F1D4ED300ABC368 /* CGFloat+degreeToRad.swift in Sources */,
+				3B0DC1A31F1D502700ABC368 /* UIButton+flexibleWidth.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
