@@ -1,5 +1,5 @@
 //
-//  UIButton+flexibleWidth.swift
+//  UILabel+flexibleWidth.swift
 //  Gestalt
 //
 //  Created by Alexey Chekanov on 5/18/17.

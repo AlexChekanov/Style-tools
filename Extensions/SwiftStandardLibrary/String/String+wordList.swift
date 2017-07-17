@@ -9,6 +9,7 @@
 
 extension String {
     var wordList: [String] {
-        return Array(Set(components(separatedBy: .punctuationCharacters).joined(separator: "").components(separatedBy: " "))).filter {$0.characters.count > 0}
+        return Array(Set(components(separatedBy: .punctuationCharacters).joined(separator: "").components(separatedBy: " "))).filter {$0.characters.count > 0
+        }
     }
 }
