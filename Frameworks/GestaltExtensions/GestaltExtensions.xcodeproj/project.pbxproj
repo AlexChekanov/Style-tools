@@ -7,33 +7,17 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3B0DC1781F1D4A5800ABC368 /* GestaltExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 3B0DC1761F1D4A5800ABC368 /* GestaltExtensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3B0DC1901F1D4B8C00ABC368 /* Guides.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0DC18F1F1D4B8C00ABC368 /* Guides.swift */; };
-		3B0DC1981F1D4EC300ABC368 /* UIView+fadeInOut.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0DC1961F1D4EC300ABC368 /* UIView+fadeInOut.swift */; };
-		3B0DC1991F1D4EC300ABC368 /* UIViewl+shake.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0DC1971F1D4EC300ABC368 /* UIViewl+shake.swift */; };
-		3B0DC19B1F1D4ED300ABC368 /* CGFloat+degreeToRad.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0DC19A1F1D4ED300ABC368 /* CGFloat+degreeToRad.swift */; };
-		3B0DC19F1F1D4EDC00ABC368 /* String+isNilOrEmpty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0DC19C1F1D4EDC00ABC368 /* String+isNilOrEmpty.swift */; };
-		3B0DC1A01F1D4EDC00ABC368 /* String+maxElement.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0DC19D1F1D4EDC00ABC368 /* String+maxElement.swift */; };
-		3B0DC1A11F1D4EDC00ABC368 /* String+wordList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0DC19E1F1D4EDC00ABC368 /* String+wordList.swift */; };
-		3B0DC1A31F1D502700ABC368 /* UIButton+flexibleWidth.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B0DC1A21F1D502700ABC368 /* UIButton+flexibleWidth.swift */; };
+		3B0DC1BE1F1D55D300ABC368 /* GestaltExtensions.h in Headers */ = {isa = PBXBuildFile; fileRef = 3B0DC1BC1F1D55D300ABC368 /* GestaltExtensions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3B0DC1731F1D4A5800ABC368 /* GestaltExtensions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GestaltExtensions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3B0DC1761F1D4A5800ABC368 /* GestaltExtensions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GestaltExtensions.h; sourceTree = "<group>"; };
-		3B0DC1771F1D4A5800ABC368 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3B0DC18F1F1D4B8C00ABC368 /* Guides.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Guides.swift; sourceTree = "<group>"; };
-		3B0DC1961F1D4EC300ABC368 /* UIView+fadeInOut.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIView+fadeInOut.swift"; path = "../../../UIKit/UIView/UIView+fadeInOut.swift"; sourceTree = "<group>"; };
-		3B0DC1971F1D4EC300ABC368 /* UIViewl+shake.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIViewl+shake.swift"; path = "../../../UIKit/UIView/UIViewl+shake.swift"; sourceTree = "<group>"; };
-		3B0DC19A1F1D4ED300ABC368 /* CGFloat+degreeToRad.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "CGFloat+degreeToRad.swift"; path = "../../SwiftStandardLibrary/CGFloat/CGFloat+degreeToRad.swift"; sourceTree = "<group>"; };
-		3B0DC19C1F1D4EDC00ABC368 /* String+isNilOrEmpty.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "String+isNilOrEmpty.swift"; path = "../../SwiftStandardLibrary/String/String+isNilOrEmpty.swift"; sourceTree = "<group>"; };
-		3B0DC19D1F1D4EDC00ABC368 /* String+maxElement.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "String+maxElement.swift"; path = "../../SwiftStandardLibrary/String/String+maxElement.swift"; sourceTree = "<group>"; };
-		3B0DC19E1F1D4EDC00ABC368 /* String+wordList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "String+wordList.swift"; path = "../../SwiftStandardLibrary/String/String+wordList.swift"; sourceTree = "<group>"; };
-		3B0DC1A21F1D502700ABC368 /* UIButton+flexibleWidth.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "UIButton+flexibleWidth.swift"; path = "../../UIKit/UIButton/UIButton+flexibleWidth.swift"; sourceTree = "<group>"; };
+		3B0DC1B91F1D55D300ABC368 /* GestaltExtensions.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = GestaltExtensions.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		3B0DC1BC1F1D55D300ABC368 /* GestaltExtensions.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = GestaltExtensions.h; sourceTree = "<group>"; };
+		3B0DC1BD1F1D55D300ABC368 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3B0DC16F1F1D4A5800ABC368 /* Frameworks */ = {
+		3B0DC1B51F1D55D300ABC368 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -43,145 +27,53 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		3B0DC1691F1D4A5800ABC368 = {
+		3B0DC1AF1F1D55D300ABC368 = {
 			isa = PBXGroup;
 			children = (
-				3B0DC1751F1D4A5800ABC368 /* GestaltExtensions */,
-				3B0DC1741F1D4A5800ABC368 /* Products */,
+				3B0DC1BB1F1D55D300ABC368 /* GestaltExtensions */,
+				3B0DC1BA1F1D55D300ABC368 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		3B0DC1741F1D4A5800ABC368 /* Products */ = {
+		3B0DC1BA1F1D55D300ABC368 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3B0DC1731F1D4A5800ABC368 /* GestaltExtensions.framework */,
+				3B0DC1B91F1D55D300ABC368 /* GestaltExtensions.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3B0DC1751F1D4A5800ABC368 /* GestaltExtensions */ = {
+		3B0DC1BB1F1D55D300ABC368 /* GestaltExtensions */ = {
 			isa = PBXGroup;
 			children = (
-				3B0DC1761F1D4A5800ABC368 /* GestaltExtensions.h */,
-				3B0DC1771F1D4A5800ABC368 /* Info.plist */,
-				3B0DC1911F1D4BD800ABC368 /* Extensions */,
-				3B0DC18C1F1D4B8C00ABC368 /* Styles */,
+				3B0DC1BC1F1D55D300ABC368 /* GestaltExtensions.h */,
+				3B0DC1BD1F1D55D300ABC368 /* Info.plist */,
 			);
 			path = GestaltExtensions;
-			sourceTree = "<group>";
-		};
-		3B0DC17E1F1D4B7000ABC368 /* CGFloat */ = {
-			isa = PBXGroup;
-			children = (
-				3B0DC19A1F1D4ED300ABC368 /* CGFloat+degreeToRad.swift */,
-			);
-			name = CGFloat;
-			path = ../../../Extensions/CommonClases/CGFloat;
-			sourceTree = "<group>";
-		};
-		3B0DC1801F1D4B7000ABC368 /* String */ = {
-			isa = PBXGroup;
-			children = (
-				3B0DC19C1F1D4EDC00ABC368 /* String+isNilOrEmpty.swift */,
-				3B0DC19D1F1D4EDC00ABC368 /* String+maxElement.swift */,
-				3B0DC19E1F1D4EDC00ABC368 /* String+wordList.swift */,
-			);
-			name = String;
-			path = ../../../Extensions/CommonClases/String;
-			sourceTree = "<group>";
-		};
-		3B0DC1831F1D4B7000ABC368 /* UIKit */ = {
-			isa = PBXGroup;
-			children = (
-				3B0DC1931F1D4CF000ABC368 /* UILabel */,
-				3B0DC1841F1D4B7000ABC368 /* UIView */,
-			);
-			name = UIKit;
-			path = ../../../Extensions/CommonClases/UIKit;
-			sourceTree = "<group>";
-		};
-		3B0DC1841F1D4B7000ABC368 /* UIView */ = {
-			isa = PBXGroup;
-			children = (
-				3B0DC1961F1D4EC300ABC368 /* UIView+fadeInOut.swift */,
-				3B0DC1971F1D4EC300ABC368 /* UIViewl+shake.swift */,
-			);
-			path = UIView;
-			sourceTree = "<group>";
-		};
-		3B0DC18C1F1D4B8C00ABC368 /* Styles */ = {
-			isa = PBXGroup;
-			children = (
-				3B0DC18D1F1D4B8C00ABC368 /* Buttons */,
-				3B0DC18E1F1D4B8C00ABC368 /* Texts */,
-			);
-			name = Styles;
-			path = ../../../Styles;
-			sourceTree = "<group>";
-		};
-		3B0DC18D1F1D4B8C00ABC368 /* Buttons */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Buttons;
-			sourceTree = "<group>";
-		};
-		3B0DC18E1F1D4B8C00ABC368 /* Texts */ = {
-			isa = PBXGroup;
-			children = (
-				3B0DC18F1F1D4B8C00ABC368 /* Guides.swift */,
-			);
-			path = Texts;
-			sourceTree = "<group>";
-		};
-		3B0DC1911F1D4BD800ABC368 /* Extensions */ = {
-			isa = PBXGroup;
-			children = (
-				3B0DC1921F1D4CBD00ABC368 /* Swift Standard Library */,
-				3B0DC1831F1D4B7000ABC368 /* UIKit */,
-			);
-			name = Extensions;
-			sourceTree = "<group>";
-		};
-		3B0DC1921F1D4CBD00ABC368 /* Swift Standard Library */ = {
-			isa = PBXGroup;
-			children = (
-				3B0DC17E1F1D4B7000ABC368 /* CGFloat */,
-				3B0DC1801F1D4B7000ABC368 /* String */,
-			);
-			name = "Swift Standard Library";
-			sourceTree = "<group>";
-		};
-		3B0DC1931F1D4CF000ABC368 /* UILabel */ = {
-			isa = PBXGroup;
-			children = (
-				3B0DC1A21F1D502700ABC368 /* UIButton+flexibleWidth.swift */,
-			);
-			name = UILabel;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		3B0DC1701F1D4A5800ABC368 /* Headers */ = {
+		3B0DC1B61F1D55D300ABC368 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3B0DC1781F1D4A5800ABC368 /* GestaltExtensions.h in Headers */,
+				3B0DC1BE1F1D55D300ABC368 /* GestaltExtensions.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		3B0DC1721F1D4A5800ABC368 /* GestaltExtensions */ = {
+		3B0DC1B81F1D55D300ABC368 /* GestaltExtensions */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3B0DC17B1F1D4A5800ABC368 /* Build configuration list for PBXNativeTarget "GestaltExtensions" */;
+			buildConfigurationList = 3B0DC1C11F1D55D300ABC368 /* Build configuration list for PBXNativeTarget "GestaltExtensions" */;
 			buildPhases = (
-				3B0DC16E1F1D4A5800ABC368 /* Sources */,
-				3B0DC16F1F1D4A5800ABC368 /* Frameworks */,
-				3B0DC1701F1D4A5800ABC368 /* Headers */,
-				3B0DC1711F1D4A5800ABC368 /* Resources */,
+				3B0DC1B41F1D55D300ABC368 /* Sources */,
+				3B0DC1B51F1D55D300ABC368 /* Frameworks */,
+				3B0DC1B61F1D55D300ABC368 /* Headers */,
+				3B0DC1B71F1D55D300ABC368 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -189,44 +81,44 @@
 			);
 			name = GestaltExtensions;
 			productName = GestaltExtensions;
-			productReference = 3B0DC1731F1D4A5800ABC368 /* GestaltExtensions.framework */;
+			productReference = 3B0DC1B91F1D55D300ABC368 /* GestaltExtensions.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		3B0DC16A1F1D4A5800ABC368 /* Project object */ = {
+		3B0DC1B01F1D55D300ABC368 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = "Alexey Chekanov";
 				TargetAttributes = {
-					3B0DC1721F1D4A5800ABC368 = {
+					3B0DC1B81F1D55D300ABC368 = {
 						CreatedOnToolsVersion = 8.3;
 						DevelopmentTeam = JH6R8SSABL;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = 3B0DC16D1F1D4A5800ABC368 /* Build configuration list for PBXProject "GestaltExtensions" */;
+			buildConfigurationList = 3B0DC1B31F1D55D300ABC368 /* Build configuration list for PBXProject "GestaltExtensions" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 			);
-			mainGroup = 3B0DC1691F1D4A5800ABC368;
-			productRefGroup = 3B0DC1741F1D4A5800ABC368 /* Products */;
+			mainGroup = 3B0DC1AF1F1D55D300ABC368;
+			productRefGroup = 3B0DC1BA1F1D55D300ABC368 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3B0DC1721F1D4A5800ABC368 /* GestaltExtensions */,
+				3B0DC1B81F1D55D300ABC368 /* GestaltExtensions */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		3B0DC1711F1D4A5800ABC368 /* Resources */ = {
+		3B0DC1B71F1D55D300ABC368 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -236,25 +128,17 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		3B0DC16E1F1D4A5800ABC368 /* Sources */ = {
+		3B0DC1B41F1D55D300ABC368 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3B0DC1901F1D4B8C00ABC368 /* Guides.swift in Sources */,
-				3B0DC1A11F1D4EDC00ABC368 /* String+wordList.swift in Sources */,
-				3B0DC1991F1D4EC300ABC368 /* UIViewl+shake.swift in Sources */,
-				3B0DC1981F1D4EC300ABC368 /* UIView+fadeInOut.swift in Sources */,
-				3B0DC19F1F1D4EDC00ABC368 /* String+isNilOrEmpty.swift in Sources */,
-				3B0DC1A01F1D4EDC00ABC368 /* String+maxElement.swift in Sources */,
-				3B0DC19B1F1D4ED300ABC368 /* CGFloat+degreeToRad.swift in Sources */,
-				3B0DC1A31F1D502700ABC368 /* UIButton+flexibleWidth.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		3B0DC1791F1D4A5800ABC368 /* Debug */ = {
+		3B0DC1BF1F1D55D300ABC368 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -308,7 +192,7 @@
 			};
 			name = Debug;
 		};
-		3B0DC17A1F1D4A5800ABC368 /* Release */ = {
+		3B0DC1C01F1D55D300ABC368 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -355,7 +239,7 @@
 			};
 			name = Release;
 		};
-		3B0DC17C1F1D4A5800ABC368 /* Debug */ = {
+		3B0DC1C21F1D55D300ABC368 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
@@ -374,7 +258,7 @@
 			};
 			name = Debug;
 		};
-		3B0DC17D1F1D4A5800ABC368 /* Release */ = {
+		3B0DC1C31F1D55D300ABC368 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
@@ -396,25 +280,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3B0DC16D1F1D4A5800ABC368 /* Build configuration list for PBXProject "GestaltExtensions" */ = {
+		3B0DC1B31F1D55D300ABC368 /* Build configuration list for PBXProject "GestaltExtensions" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3B0DC1791F1D4A5800ABC368 /* Debug */,
-				3B0DC17A1F1D4A5800ABC368 /* Release */,
+				3B0DC1BF1F1D55D300ABC368 /* Debug */,
+				3B0DC1C01F1D55D300ABC368 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3B0DC17B1F1D4A5800ABC368 /* Build configuration list for PBXNativeTarget "GestaltExtensions" */ = {
+		3B0DC1C11F1D55D300ABC368 /* Build configuration list for PBXNativeTarget "GestaltExtensions" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3B0DC17C1F1D4A5800ABC368 /* Debug */,
-				3B0DC17D1F1D4A5800ABC368 /* Release */,
+				3B0DC1C21F1D55D300ABC368 /* Debug */,
+				3B0DC1C31F1D55D300ABC368 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 3B0DC16A1F1D4A5800ABC368 /* Project object */;
+	rootObject = 3B0DC1B01F1D55D300ABC368 /* Project object */;
 }

@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "3B0DC1721F1D4A5800ABC368"
+               BlueprintIdentifier = "3B0DC1B81F1D55D300ABC368"
                BuildableName = "GestaltExtensions.framework"
                BlueprintName = "GestaltExtensions"
                ReferencedContainer = "container:GestaltExtensions.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3B0DC1721F1D4A5800ABC368"
+            BlueprintIdentifier = "3B0DC1B81F1D55D300ABC368"
             BuildableName = "GestaltExtensions.framework"
             BlueprintName = "GestaltExtensions"
             ReferencedContainer = "container:GestaltExtensions.xcodeproj">
@@ -63,7 +63,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "3B0DC1721F1D4A5800ABC368"
+            BlueprintIdentifier = "3B0DC1B81F1D55D300ABC368"
             BuildableName = "GestaltExtensions.framework"
             BlueprintName = "GestaltExtensions"
             ReferencedContainer = "container:GestaltExtensions.xcodeproj">
