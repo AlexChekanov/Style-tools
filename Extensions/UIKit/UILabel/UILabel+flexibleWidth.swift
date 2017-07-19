@@ -144,7 +144,7 @@ extension UILabel {
                     if (widthJumps.count > 1) && (optimalWidth/widthJumps.last! >= 0.72) {optimalWidth = widthJumps.last!}
                     
                     
-                    frameToReturn = CGRect(origin: CGPoint.zero, size: CGSize(width: optimalWidth+constantElementsWidth, height: targetHeight))
+                    frameToReturn = CGRect(origin: CGPoint.zero, size: CGSize(width: optimalWidth+constantElementsWidth, height: optimalHeight))
                     
                 }
             }
